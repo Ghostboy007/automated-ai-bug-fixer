@@ -1,0 +1,13 @@
+Bug Description:
+
+The calculator application crashes when a user attempts
+to divide a number by zero.
+
+Error:
+
+ZeroDivisionError: division by zero
+
+Expected behavior:
+
+The application should handle division by zero gracefully
+instead of crashing.
